@@ -1,0 +1,28 @@
+_repo: Der-Tatbestand-der-Piraterie-nach-geltendem-V-lkerrecht_35137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stiel, Paul
+    birthdate: 1882
+    gutenberg_agent_id: '34008'
+    url: http://www.gutenberg.org/2009/agents/34008
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35137'
+  lccn: 06000697
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JX'
+- !lcsh 'War, Maritime (International law)'
+- !lcsh 'Pirates'
+title: Der Tatbestand der Piraterie nach geltendem Völkerrecht
+url: http://www.gutenberg.org/ebooks/35137
